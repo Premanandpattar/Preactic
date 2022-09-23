@@ -7,6 +7,8 @@ public class FirstTest {
 	public void firstTest() {
 		System.out.println("im first");
 		System.out.println(System.getProperty("b"));
+		System.out.println("im done");
 	}
+	
 	
 }
